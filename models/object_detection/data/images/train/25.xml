@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>25</filename>
+  <path>E:\Files\RoboPi\TensorFlow\First Test\object_detection_demo\data\images\train\25.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cig</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>379</xmin>
+      <ymin>254</ymin>
+      <xmax>439</xmax>
+      <ymax>307</ymax>
+    </bndbox>
+  </object>
+</annotation>
